@@ -1,0 +1,19 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "title": "Education Live",
+      "cover": "slider-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Live video",
+      "cover": "slider-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Multiplayer live",
+      "cover": "slider-3.png"
+    }
+  ]
+}

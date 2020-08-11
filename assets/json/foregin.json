@@ -1,0 +1,200 @@
+{
+    "title": "Building Stable and High-Quality Cloud Streaming Services for Real-Time Audio and Video Communications",
+    "subTitle": "Global Streaming Cloud with Abundant Nodes and Rapid Scalability",
+    "advantages": [
+        {
+            "title": "Reliable and Stable Streaming Cloud",
+            "subTitle": "Global Coverage, High Availability, Rapid Scalability",
+            "id": "cloud"
+        },
+        {
+            "title": "Flexible and Accommodating Streaming Engine",
+            "subTitle": "Simple SDK integration with 4 lines of codes, easy service access in 20 minutes",
+            "id": "engine"
+        },
+        {
+            "title": "Powerful Backend System for Transparent Monitoring and Reporting",
+            "subTitle": "Real-time network quality monitoring, comprehensive stream quality reporting",
+            "id": "monitor"
+        }
+    ],
+    "products": [
+        {
+            "title": "Live Interactive Video Streaming",
+            "desc": "Our Live Interactive Video Streaming service supports one-to-one video call, one-to-many video broadcasting and many-to-many video conferencing. It can be used in many different scenarios where video interaction is required, such as video social networking, group video conferencing, online classroom, etc.",
+            "id": "video",
+            "name": "互动视频"
+        },
+        {
+            "title": "Real-Time Audio Streaming",
+            "desc": "Our Real-time Audio Streaming service supports one-to-one voice chat, one-to-many voice conversation (up to millions of participants), applicable to VoIP phone services, ganging-up in games, internet radio stations and so on.",
+            "id": "audio",
+            "name": "实时语音"
+        },
+        {
+            "title": "Audio/Video Recording and Archiving",
+            "desc": "Our Audio/Video Recording and Archiving service empowers enterprises with on-premises video witness system that can meet various legal and compliance requirements. It can be used for video witnessing of bank account opening, brokerage account opening, in-person interview and other events.",
+            "id": "record",
+            "name": "视频双录"
+        },
+        {
+            "title": "Voice Chatroom",
+            "desc": "Our Voice Chatroom service supports simultaneous speaking in group voice chat, background music and sound effects. It allows users to keep the chat active in the background while switching to other applications.",
+            "id": "chatroom",
+            "name": "语聊房"
+        }
+    ],
+    "introductions": [
+        {
+            "id": "engine",
+            "title": "Powerful Audio/Video Streaming Engine",
+            "children": [
+                "Adaptive to weak network environment, smoothing out the video stuttering caused by network jitter",
+                "Capable of processing 44.1kHz full-band audio and 4K UHD video",
+                "Extraordinary 3A Audio Preprocessing that produces audio streams that can rival the sound quality of a CD.",
+                "Sophisticated codec that supports Scalable Video Coding (SVC) and still has good performance even when running in low-configuration devices."
+            ]
+        },
+        {
+            "id": "trans",
+            "title": "Global Streaming Cloud with Ultra Low Latency",
+            "children": [
+                "Covering more than 200 countries and territories, 300ms ultra low latency",
+                "Real-time link quality monitoring and rapid node status analysis of the global streaming network",
+                "Global dispatching system that allows end users to access the nearest boundary node and supports the rapid scaling-up"
+            ]
+        },
+        {
+            "id": "adapt",
+            "title": "Full Adaptability",
+            "children": [
+                "Deeply optimized software codecs compatible with more than 5000 different android phone models",
+                "SDKs for all operating systems including MacOS, Windows, iOS, Android, Web and Linux",
+                "Developer-friendly SDK integration procedures for different development frameworks in different programming languages"
+            ]
+        }
+    ],
+    "access": {
+        "steps": [
+            {
+                "id": "integration",
+                "title": "SDK Integration",
+                "desc": "prepare your development environment, and integrate the SDK into your project"
+            },
+            {
+                "id": "login",
+                "title": "Room Login",
+                "desc": "upon completion of SDK initialization, start logging in the desired rooms"
+            },
+            {
+                "id": "push",
+                "title": "Publishing Stream",
+                "desc": "if room login is successful, publish the video stream to ZEGO servers"
+            },
+            {
+                "id": "pull",
+                "title": "Playing Stream",
+                "desc": "play video streams from ZEGO server or CDN and then play on terminal devices"
+            }
+        ],
+        "platforms": [
+            {
+                "id": "all",
+                "text": "All",
+                "link": "https://doc-en.zego.im/"
+            },
+            {
+                "id": "iOS",
+                "text": "iOS",
+                "link": "https://doc-en.zego.im/en/1028.html"
+            },
+            {
+                "id": "Android",
+                "text": "Android",
+                "link": "https://doc-en.zego.im/en/727.html"
+            },
+            {
+                "id": "Windows",
+                "text": "Windows",
+                "link": "https://doc-en.zego.im/en/981.html"
+            },
+            {
+                "id": "Web",
+                "text": "Web",
+                "link": "javascript:void(0);"
+            },
+            {
+                "id": "in",
+                "text": "Download SDK",
+                "link": "https://doc-en.zego.im/download/sdk"
+            }
+        ]
+    },
+    "stories": [
+        {
+            "icon": "1-1"
+        },
+        {
+            "icon": "1-2"
+        },
+        {
+            "icon": "1-3"
+        },
+        {
+            "icon": "1-4"
+        },
+        {
+            "icon": "1-5"
+        },
+        {
+            "icon": "2-1"
+        },
+        {
+            "icon": "2-3"
+        },
+        {
+            "icon": "2-4"
+        },
+        {
+            "icon": "2-5"
+        }
+    ],
+    "contact": {
+        "name": {
+            "id": "name",
+            "label": "Name",
+            "type": "text",
+            "placeholder": "Your name",
+            "error": "",
+            "ierror": "",
+            "value": ""
+        },
+        "email": {
+            "id": "email",
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Your Email address",
+            "error": "",
+            "ierror": "The e-mail address entered is invalid.",
+            "value": ""
+        },
+        "phone": {
+            "id": "phone",
+            "label": "(Area Code)Phone",
+            "type": "tel",
+            "placeholder": "Your phone number",
+            "error": "",
+            "ierror": "The phone number entered is invalid.",
+            "value": ""
+        },
+        "company": {
+            "id":"company",
+            "label": "Company",
+            "type": "text",
+            "placeholder": "Company",
+            "error": "",
+            "ierror": "",
+            "value": ""
+        }
+    }
+}

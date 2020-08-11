@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Live Interactive Video Streaming",
+      "cover": "video",
+      "desc": "It perfectly supports multiple live streaming formats such as dual-stream live streaming, multi-player connected wheat, voice live, interactive mini-games, etc., and a variety of forms to meet the various needs of entertainment and live gaming.",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "Real-Time Audio Streaming",
+      "cover": "audio",
+      "desc": "Our Real-time Audio Streaming service supports one-to-one voice chat, one-to-many voice conversation (up to millions of participants), applicable to VoIP phone services, ganging-up in games, internet radio stations and so on.",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "Audio/Video Recording and Archiving",
+      "cover": "record",
+      "desc": "Our Audio/Video Recording and Archiving service empowers enterprises with on-premises video witness system that can meet various legal and compliance requirements. It can be used for video witnessing of bank account opening, brokerage account opening, in-person interview and other events.",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "Voice Chatroom",
+      "cover": "chatroom",
+      "desc": "Our Voice Chatroom service supports simultaneous speaking in group voice chat, background music and sound effects. It allows users to keep the chat active in the background while switching to other applications.",
+      "url": ""
+    }
+  ]
+}

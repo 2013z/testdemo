@@ -1,0 +1,1 @@
+文件结构与pages组件相同，区别于该components下的组件不存在asyncData方法,nuxt会对应进行映射查找

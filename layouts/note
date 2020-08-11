@@ -1,0 +1,6 @@
+布局自定义模板，该目录不能被重名，
+引用方式如：
+@Component({
+    layout: 'mylayout'
+})
+// 每个layout组件要设定一个当前page的插槽位。如：<div><nuxt /></div> 其中nuxt指向的为当前page页的.vue文件
